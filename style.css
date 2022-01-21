@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+* {
+    margin: 0%;
+}
+
+body {
+    background-color: rgb(8, 8, 8);
+    margin: 0;
+    font-family: Ubuntu Mono;
+}
+
+.aaa {
+    color: rgb(62, 11, 109);
+}
+
+
+.asd {
+    float: left;
+    height: 100px;
+    width: 100px;
+    background-color: whitesmoke;
+    border: 0px;
+    border-radius: 200px;
+    font: Ubuntu Mono;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#zxc {
+    visibility: hidden;
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+
+.xyz {
+    background-color: gold;
+    padding: 25px;
+}
